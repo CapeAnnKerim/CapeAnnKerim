@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [EDealer](https://github.com/Edealer)
 
-- 📫 How to reach me **kmuharembegovic@capeannenterprises.com**
+- 📫 Reach me via **kmuharembegovic@capeannenterprises.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
