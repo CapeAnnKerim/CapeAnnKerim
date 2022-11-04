@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Kerim Muharembegovic</h1>
-<h3 align="center">Junior Full-Stack Developer</h3>
 
 - 🔭 I’m currently working on [EDealer](https://github.com/Edealer)
 
